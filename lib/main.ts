@@ -1,5 +1,4 @@
-import Device, { LANDSCAPE, PORTRAIT, SIZE_UNKNOWN } from './device'
+import Device, { LANDSCAPE, PORTRAIT, SIZE_UNKNOWN } from "./device";
 
-export default Device
-export { LANDSCAPE, PORTRAIT, SIZE_UNKNOWN }
-
+export default Device;
+export { LANDSCAPE, PORTRAIT, SIZE_UNKNOWN };

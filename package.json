@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/adelantsoftware/react-device.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "build": "npx vite build",
@@ -27,14 +27,14 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "react": "^19.0.0",
-    "ua-parser-js": "^2.0.1",
-    "vite": "^6.1.0"
+    "ua-parser-js": "^2.0.2",
+    "vite": "^6.2.0"
   },
   "devDependencies": {
-    "@types/lodash": "^4.17.15",
-    "@types/react": "^19.0.8",
-    "@types/react-dom": "^19.0.3",
+    "@types/lodash": "^4.17.16",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
     "@types/ua-parser-js": "^0.7.39",
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.2"
   }
 }
